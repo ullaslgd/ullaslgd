@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**ullaslgd/ullaslgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate 19-year-old full-stack developer with a love for coding and anime, especially One Piece! 🌊⚔️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🛠️
+
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **API Testing:** Axios, Postman
+- **Tools:** Git, GitHub, NPM
+- **API Development:** REST API
+- **Operating System:** Linux 🐧
+
+## Let's Connect! 🌟
+
+Feel free to reach out to me on GitHub or through my email [insert your email here].
+
+Looking forward to collaborating and discussing One Piece theories with fellow developers! 🏴‍☠️
