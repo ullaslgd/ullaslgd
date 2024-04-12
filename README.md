@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate 19-year-old full-stack developer with a love for coding and anime, especially One Piece! 🌊⚔️ I also enjoy reading manga, with favorites like Vinland Saga and The Climber. 📚 When I'm not coding or reading, you can find me playing Valorant. 🎮 
+I'm a passionate 19-year-old full-stack developer with a love for coding and anime, especially One Piece! 🌊
 
 ## Skills 🛠️
 
