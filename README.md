@@ -12,6 +12,7 @@ I'm a passionate 19-year-old full-stack developer with a love for coding and ani
 - **API Testing:** Axios, Postman
 - **Tools:** Git, GitHub, NPM
 - **API Development:** REST API
+- **Web3 and Blockchain:** Motoko, ICP blockchain
 - **Operating System:** Linux 🐧
 
 ## Currently Learning 📖
