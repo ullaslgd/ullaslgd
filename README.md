@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate 19-year-old full-stack developer with a love for coding and anime, especially One Piece! 🌊
+I'm a passionate 19-year-old full-stack developer.
 
 ## Skills 🛠️
 
@@ -22,6 +22,4 @@ I'm a passionate 19-year-old full-stack developer with a love for coding and ani
 ## Let's Connect! 🌟
 
 Feel free to reach out to me on GitHub or through my email theuvis@proton.me
-
-Looking forward to collaborating and discussing One Piece theories with fellow developers! 🏴‍☠️
 
