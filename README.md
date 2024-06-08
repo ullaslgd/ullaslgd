@@ -25,5 +25,5 @@ Feel free to reach out to me on GitHub or through my email theuvis@proton.me
 
 ## Portfolio
 
-https://portfolio-sigma-eight-84.vercel.app/
+https://www.ullas.xyz
 
