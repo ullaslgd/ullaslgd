@@ -6,7 +6,7 @@ I'm a passionate 19-year-old full-stack developer.
 
 ## Skills 🛠️
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, EJS
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, EJS , React.js
 - **Backend:** Node.js, Express.js
 - **Database:** SQL, PostgreSQL
 - **API Testing:** Axios, Postman
@@ -17,7 +17,7 @@ I'm a passionate 19-year-old full-stack developer.
 
 ## Currently Learning 📖
 
-- React.js
+- Next JS
 
 ## Let's Connect! 🌟
 
