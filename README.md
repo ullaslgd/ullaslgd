@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm ullas</h1>
-<h3 align="center">“I’m a 19-year-old full-stack developer who thrives on creating web applications, games, and exploring the fascinating world of machine learning. When I’m not coding, you’ll find me immersed in game development or tinkering with neural networks. 🚀🎮🤖”</h3>
+<h3 align="center">“I’m a 19-year-old full-stack developer who thrives on creating web applications and games 🚀🎮🤖”</h3>
 
 - 👨‍💻 All of my projects are available at [ullas.xyz](ullas.xyz)
 
