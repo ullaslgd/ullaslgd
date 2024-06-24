@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm ullas</h1>
 <h3 align="center">“I’m a 19-year-old full-stack developer who thrives on creating web applications and games 🚀🎮🤖”</h3>
 
-- 👨‍💻 All of my projects are available at [ullas.xyz](ullas.xyz)
+- 👨‍💻 All of my projects are available at [ullas.xyz](https://www.ullas.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
