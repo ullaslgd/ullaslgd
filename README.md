@@ -16,7 +16,28 @@
  <li>CSS3</li>
  <li>JavaScript</li>
  <li>Tailwind CSS</li>
+ <li>Bootstrap</li>
  <li>React JS</li>
+</ul>
+<h4>Backend:</h4>
+<ul>
+ <li>Node JS</li>
+ <li>Express JS</li>
+ <li>Next JS</li>
+ <li>PostgresSQL</li>
+ <li>MongoDB</li>
+</ul>
+<h4>Games</h4>
+<ul>
+<li>Unreal Engine 5</li>
+<li>C++</li>
+<li>BP Programming</li>
+</ul>
+<h4>Others:</h4>
+<ul>
+<li>Postman</li>
+ <li>Git</li>
+ <li>VS Code</li>
 </ul>
 
 <h3 align="left">Support:</h3>
