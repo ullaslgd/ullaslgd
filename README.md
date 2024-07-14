@@ -67,8 +67,7 @@ I’m currently learning Unreal Engine 5🌱
 <h2 align="left">Try Hack Me:</h2>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/clubullas.png" alt="TryHackMe">
-
-<script src="https://tryhackme.com/badge/2819540"></script>
+ 
 
 
 
