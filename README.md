@@ -1,3 +1,5 @@
+ 
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=clubullas@gmail.com)](clubullas@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullas-arwan-8387b22a2/)
  
@@ -7,19 +9,16 @@
 My tech stack involves React, Node.js, Next.js and MongoDB.
 <br/>
 I’m currently learning Unreal Engine 5🌱
-- 👨‍💻 All of my projects are available at [ullas.xyz](https://ullas.xyz)
+<br />
+- 👨‍💻 All of my projects are available at ![ullas.xyz](https://ullas.xyz)
 
 
 <h2 align="left" id="tech">Tech Stack</h2>
 
 <table>
   <tr>
-    <td align="center" width="120" height="120">
-        <img src="https://github.com/user-attachments/assets/ca925c78-540d-4ea9-95d1-4439cdf2ac39
-" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-     <td align="center" width="120" height="120">
+     
+  <td align="center" width="120" height="120">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/react-original.svg" width="48" height="48" alt="React" />
       <br>React
     </td>
@@ -35,13 +34,16 @@ I’m currently learning Unreal Engine 5🌱
         <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+
+  </tr>
+  <tr>
     <td align="center" width="120" height="120"> 
         <img src="https://v4.material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
       <br>Material UI
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="120" height="120">
+  
+  
+  <td align="center" width="120" height="120">
       <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
@@ -61,6 +63,10 @@ I’m currently learning Unreal Engine 5🌱
 <h2 align="left">My LeetCode Stats</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/clubullas?theme=dark&font=Comic%20Neue)
+
+
+
+ 
 
 
  
