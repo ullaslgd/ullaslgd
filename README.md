@@ -10,7 +10,7 @@ My tech stack involves React, Node.js, Next.js and MongoDB.
 <br/>
 I’m currently learning Unreal Engine 5🌱
 <br />
-- 👨‍💻 All of my projects are available at [ullas.xyz](https://ullas.xyz)
+- 👨‍💻 All of my projects are available at ullas.xyz
 
 
 <h2 align="left" id="tech">Tech Stack</h2>
