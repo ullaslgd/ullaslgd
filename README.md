@@ -15,7 +15,8 @@ I’m currently learning Unreal Engine 5🌱
 <table>
   <tr>
     <td align="center" width="120" height="120">
-        <img src=" https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="TypeScript" />
+        <img src="![image](https://github.com/user-attachments/assets/ca925c78-540d-4ea9-95d1-4439cdf2ac39)
+" width="48" height="48" alt="TypeScript" />
       <br>JavaScript
     </td>
      <td align="center" width="120" height="120">
