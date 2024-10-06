@@ -8,7 +8,7 @@
 <br/>
 My tech stack involves React , TypeScript, Next.js, Postgress, drizzle , .
 <br/>
-I’m currently learning Unreal Engine 5🌱
+I’m currently learning Rust🌱
 <br />
  
 
