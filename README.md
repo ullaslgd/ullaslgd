@@ -6,7 +6,7 @@
 
 ### Hi I'm Ullas 👋, Web Dev & Game Dev 🧑‍💻
 <br/>
-My tech stack involves React, Node.js, Next.js and MongoDB.
+My tech stack involves React , TypeScript, Next.js, Postgress, drizzle , .
 <br/>
 I’m currently learning Unreal Engine 5🌱
 <br />
