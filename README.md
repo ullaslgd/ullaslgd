@@ -4,12 +4,31 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullas-arwan-8387b22a2/)
  
 
-### Hi I'm Ullas 👋, Web Dev & Game Dev 🧑‍💻
-<br/>
-My tech stack involves React , TypeScript, Next.js, Postgress, drizzle , .
-<br/>
-I’m currently learning Rust🌱
-<br />
+
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
+
+I'm **[`Ullas`](www.ullas.xyz)**, a Web and App Developer with a passion for building engaging and high-quality software. Technology has always fascinated me, and I've dedicated myself to creating innovative web and mobile applications. With each project, I aim to deliver impactful solutions and continuously expand my expertise in development.
+
+
+
+<details>
+  <summary>More about me</summary>
+
+- **Name**: Ullas
+- **From**: India
+- **Web Developer** | **App Developer** | **Programmer**
+- I have experience in web development, app development, and creating innovative software solutions.
+- **Frontend Development**, **Backend Development**
+- Improving knowledge in **Full Stack Development**
+- I’m currently learning **Artificial Intelligence** and **Machine Learning**
+- Reach me at **[clubullas@example.com](mailto:clubullas@example.com)**
+
+</details>
+
+<br>
  
 
 
