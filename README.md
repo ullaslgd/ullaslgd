@@ -63,7 +63,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
    
   </div>
 </div>
-</br>
+</br></br>
 
 
  
@@ -72,7 +72,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ullaslgd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ullaslgd&theme=dark&hide_border=false)<br/>
+
 
 
 
