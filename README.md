@@ -67,6 +67,15 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 
  
 
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ullaslgd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ullaslgd&theme=dark&hide_border=false)<br/>
+
+[![](https://visitcount.itsvg.in/api?id=ullaslgd&icon=7&color=6)](https://visitcount.itsvg.in)
+
+
 <h2 align="left">My LeetCode Stats</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/clubullas?theme=dark&font=Comic%20Neue)
@@ -87,13 +96,6 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 <p align="center">
   <b><i>"It's not impossible, it's just hard!."</i></b>
 </p>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ullaslgd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ullaslgd&theme=dark&hide_border=false)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=ullaslgd&icon=7&color=6)](https://visitcount.itsvg.in)
 
  
 
