@@ -93,6 +93,8 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ullaslgd&theme=dark&hide_border=false)<br/>
 
+[![](https://visitcount.itsvg.in/api?id=ullaslgd&icon=7&color=6)](https://visitcount.itsvg.in)
+
  
 
 
