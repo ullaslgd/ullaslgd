@@ -63,6 +63,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
    
   </div>
 </div>
+</br>
 
 
  
@@ -73,7 +74,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ullaslgd&theme=dark&hide_border=false)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=ullaslgd&icon=7&color=6)](https://visitcount.itsvg.in)
+
 
 
 <h2 align="left">My LeetCode Stats</h2>
@@ -97,6 +98,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
   <b><i>"It's not impossible, it's just hard!."</i></b>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=ullaslgd&icon=7&color=6)](https://visitcount.itsvg.in)
  
 
 
