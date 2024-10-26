@@ -35,6 +35,36 @@ I'm **[`Ullas`](www.ullas.xyz)**, a Web and App Developer with a passion for bui
 </details>
 
 <br>
+
+---
+
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+
+<br>
+
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&color=000000" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&color=000000" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&color=000000" alt="Express.js" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&color=000000" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&color=000000" alt="AWS" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React Native" />
+      <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&color=000000" alt="Neovim" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&color=000000" alt="Unreal Engine" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+  </div>
+</div>
+
+
+---
  
 
 
