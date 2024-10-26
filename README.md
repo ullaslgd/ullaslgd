@@ -117,9 +117,25 @@ I'm **[`Ullas`](www.ullas.xyz)**, a Web and App Developer with a passion for bui
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/clubullas?theme=dark&font=Comic%20Neue)
 
-<h2 align="left">Try Hack Me:</h2>
+<h2 id="donate" align=''> Support⚡️</h2>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/clubullas.png" alt="TryHackMe">
+<details>
+<summary>Buy Me A Coffee</summary>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
+
+<p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+
+</details>
+
+
+
+
+<p align="center">
+  <b><i>"It's not impossible, it's just hard!."</i></b>
+</p>
+
+
  
 
 
