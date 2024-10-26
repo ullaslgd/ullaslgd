@@ -36,7 +36,6 @@ I'm **[`Ullas`](www.ullas.xyz)**, a Web and App Developer with a passion for bui
 
 <br>
 
----
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
@@ -64,7 +63,6 @@ I'm **[`Ullas`](www.ullas.xyz)**, a Web and App Developer with a passion for bui
 </div>
 
 
----
  
 
 
