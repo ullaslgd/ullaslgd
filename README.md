@@ -66,17 +66,6 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 </br></br>
 
 
- 
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ullaslgd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-
 <h2 align="left">My LeetCode Stats</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/clubullas?theme=dark&font=Comic%20Neue)
