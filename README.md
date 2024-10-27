@@ -75,15 +75,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/clubullas?theme=dark&font=Comic%20Neue)
 
-<h2 id="donate" align=''> Support⚡️</h2>
 
-<details>
-<summary>Buy Me A Coffee</summary>
-
-
-<p align="center"><a href="https://buymeacoffee.com/ullas"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details>
 
 
 
