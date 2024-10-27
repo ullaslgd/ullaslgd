@@ -55,11 +55,12 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&color=000000" alt="AWS" />
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React Native" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&color=000000" alt="Expo" />
       <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&color=000000" alt="Neovim" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&color=000000" alt="Unreal Engine" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=000000" alt="expo" />
+
     
    
   </div>
