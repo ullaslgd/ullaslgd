@@ -30,7 +30,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 - **Frontend Development**, **Backend Development**
 - Improving knowledge in **Full Stack Development**
 - I’m currently learning **Game Development** and **Unreal Engine**
-- Reach me at **[clubullas@example.com](mailto:clubullas@example.com)**
+- Reach me at **[clubullas@gmail.com](mailto:clubullas@gmail.com)**
 
 </details>
 
