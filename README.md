@@ -29,7 +29,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 - I have experience in web development, app development, and creating innovative software solutions.
 - **Frontend Development**, **Backend Development**
 - Improving knowledge in **Full Stack Development**
-- I’m currently learning **Artificial Intelligence** and **Machine Learning**
+- I’m currently learning **Game Development** and **Unreal Engine**
 - Reach me at **[clubullas@example.com](mailto:clubullas@example.com)**
 
 </details>
