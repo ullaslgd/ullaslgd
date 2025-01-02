@@ -73,7 +73,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 
 <h2 align="left">My LeetCode Stats</h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/clubullas?theme=dark&font=Comic%20Neue)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ullasarwan?theme=dark&font=Comic%20Neue)
 
 
 
