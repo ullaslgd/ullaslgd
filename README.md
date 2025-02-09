@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion for building engaging and high-quality software. Technology has always fascinated me, and I've dedicated myself to creating innovative web and mobile applications. With each project, I aim to deliver impactful solutions and continuously expand my expertise in development.
+I'm **[`Ullas`](https://www.ullas.xyz)**, a Web  Developer with a passion for building engaging and high-quality software. Technology has always fascinated me, and I've dedicated myself to creating innovative web  applications. With each project, I aim to deliver impactful solutions and continuously expand my expertise in development.
 
 
 
@@ -25,11 +25,11 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web and App Developer with a passion
 
 - **Name**: Ullas
 - **From**: India
-- **Web Developer** | **App Developer** | **Programmer**
+- **Web Developer** | **Data Science** | **Programmer**
 - I have experience in web development, app development, and creating innovative software solutions.
 - **Frontend Development**, **Backend Development**
 - Improving knowledge in **Full Stack Development**
-- I’m currently learning **Game Development** and **Unreal Engine**
+- I’m currently learning **Artificial Intelligence** and **Machine Learning**
 - Reach me at **[clubullas@gmail.com](mailto:clubullas@gmail.com)**
 
 </details>
