@@ -29,7 +29,7 @@ I'm **[`Ullas`](https://www.ullas.xyz)**, a Web Developer with a passion for bui
 - I have experience in web development, app development, and creating innovative software solutions.
 - **Frontend Development**, **Backend Development**
 - Improving knowledge in **Full Stack Development**
-- I’m currently learning **Artificial Intelligence** and **Machine Learning**
+- I’m currently learning **Data Science** and **Data Engineering**
 - Reach me at **[clubullas@gmail.com](mailto:clubullas@gmail.com)**
 
 </details>
