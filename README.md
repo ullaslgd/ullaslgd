@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Ullas`](https://www.ullas.xyz)**, a Web  Developer with a passion for building engaging and high-quality software. Technology has always fascinated me, and I've dedicated myself to creating innovative web  applications. With each project, I aim to deliver impactful solutions and continuously expand my expertise in development.
+I'm **[`Ullas`](https://www.ullas.xyz)**, a Web Developer with a passion for building engaging, high-quality software. I'm fascinated by technology and committed to crafting innovative web applications, insightful data analysis pipelines, and robust data engineering solutions. With each project, I strive to deliver meaningful impact while continuously expanding my skills across development, data, and design.
 
 
 
